@@ -1,0 +1,4 @@
+1) Ir a path front/MenteeMatch/node_modules/react-native-scl-alert/src/components 
+2) Reemplazar los archivos "SCLAlert" y "SCLAlertHeader" 
+    por los del mismo nombre que proviene esta carpeta
+3) En la linea 96 en las options agregar una que sea useNativeDriver: true
